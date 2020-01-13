@@ -1,4 +1,4 @@
-package com.example
+package example
 
 import com.mongodb.casbah.Imports._
 
